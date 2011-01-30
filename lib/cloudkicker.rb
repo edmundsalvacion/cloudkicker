@@ -1,0 +1,3 @@
+module Cloudkicker
+  # Your code goes here...
+end
